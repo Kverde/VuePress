@@ -1,3 +1,7 @@
 HelloWorld/docs/.vuepress/dist
 HelloWorld/node_modules
 HelloWorld/yarn.lock
+
+CustomStyle/docs/.vuepress/dist
+CustomStyle/node_modules
+CustomStyle/yarn.lock
