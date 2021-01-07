@@ -5,3 +5,7 @@ HelloWorld/yarn.lock
 CustomStyle/docs/.vuepress/dist
 CustomStyle/node_modules
 CustomStyle/yarn.lock
+
+Plugins01/docs/.vuepress/dist
+Plugins01/node_modules
+Plugins01/yarn.lock

@@ -1,0 +1,15 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.0",
+    "vuepress": "^1.8.0",
+    "vuepress-plugin-reading-progress": "^1.0.10"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
