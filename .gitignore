@@ -9,3 +9,7 @@ CustomStyle/yarn.lock
 Plugins01/docs/.vuepress/dist
 Plugins01/node_modules
 Plugins01/yarn.lock
+
+favicon/docs/.vuepress/dist
+favicon/node_modules
+favicon/yarn.lock
