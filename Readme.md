@@ -6,4 +6,4 @@
 * CustomStyle — Добавление пользовательского атрибута к блокам текста и стилей ([Пост](https://way23.ru/vuepress-добавление-кастомных-стилей/)).
 * Plugins01 — пример работы плагинов [plugin-back-to-top](https://v1.vuepress.vuejs.org/plugin/official/plugin-back-to-top.html) и [plugin-reading-progress](https://github.com/tolking/vuepress-plugin-reading-progress) ([Пост](https://way23.ru/плагины-vuepress-back-to-top-и-reading-progress/)).
 * Пример добавления favicon ([Пост](https://way23.ru/добавляем-favicon-в-vuepress/)).
-* Пример вывода формул через [KaTeX](https://katex.org/) ([Пост]()).
+* Пример вывода формул через [KaTeX](https://katex.org/) ([Пост](https://way23.ru/плагин-vuepress-для-отображения-формул-vuepress-plugin-katex/)).
