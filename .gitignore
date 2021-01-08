@@ -13,3 +13,7 @@ Plugins01/yarn.lock
 favicon/docs/.vuepress/dist
 favicon/node_modules
 favicon/yarn.lock
+
+katex/docs/.vuepress/dist
+katex/node_modules
+katex/yarn.lock
