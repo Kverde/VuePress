@@ -17,3 +17,7 @@ favicon/yarn.lock
 katex/docs/.vuepress/dist
 katex/node_modules
 katex/yarn.lock
+
+multimd_table/docs/.vuepress/dist
+multimd_table/node_modules
+multimd_table/yarn.lock
